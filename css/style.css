@@ -49,6 +49,7 @@ header{
     position: relative;
 
 }
+/*может так?*/
 .section-banner:after {
     content: "";
     display: block;
@@ -59,6 +60,7 @@ header{
     bottom: 0;
     z-index: 1;
 }
+/*может так?*/
 .logo{
     display: block;
     text-decoration: none;
